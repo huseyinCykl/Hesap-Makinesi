@@ -1,0 +1,11 @@
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\husey\source\repos\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
